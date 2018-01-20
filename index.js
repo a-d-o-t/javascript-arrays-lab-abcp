@@ -1,7 +1,5 @@
 const app = "I don't do much."
-/*Is something wrong with this lab? I don't see anything except the above line which says:
-const app = "I don't do much"
-Where is the kitten stuff? Is everything culled from the "learn test"? 
+/*What the what is this line here above? Oh-kay.
 */
 
 var kittens = ["Milo", "Otis", "Garfield"]
@@ -10,4 +8,6 @@ function destructivelyAppendKitten(name) {
   kittens.push(name);
   return kittens
 }
+
+
 
