@@ -7,7 +7,7 @@ Where is the kitten stuff? Is everything culled from the "learn test"?
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendKitten(name) {
-  push(name);
+  kittens.push(name);
   return kittens
 }
 
